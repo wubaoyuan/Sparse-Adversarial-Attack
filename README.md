@@ -1,6 +1,6 @@
 # Sparse-Adversarial-Attack
 
-This repository provides a simple implementation of our recent work "Sparse Adversarial Attack via Perturbation Factorization", ECCV 2020.
+This repository provides a simple implementation of our recent work ["Sparse Adversarial Attack via Perturbation Factorization"](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670035.pdf), ECCV 2020.
 
 
 ### Dependencies
